@@ -7,3 +7,9 @@ springerlinkの論文一覧ページからpukiwikiのサーベイのためのペ
 ```$ cd springerlink-survey```
 
 ```$ python main.py url```
+
+# 必要なもの
+- python3
+- lxml
+- request
+- cssselect
